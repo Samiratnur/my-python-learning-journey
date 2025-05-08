@@ -1,0 +1,7 @@
+x=5
+y=3
+print(x+y)
+if x<y:
+    print(okk)
+else:
+    Print(false)
