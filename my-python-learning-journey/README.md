@@ -30,3 +30,6 @@ This is an ongoing practice repository. I regularly add new files as I progress 
 ## 📫 Connect with me
 
 Feel free to explore the code, give feedback, or connect with me via [LinkedIn]https://www.linkedin.com/in/samir-atnur/ or check out my other work on [GitHub]https://github.com/Samiratnur.
+
+
+D:\Github_work\PYTHON_CODING\my-python-learning-journey
